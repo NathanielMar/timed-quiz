@@ -1,0 +1,48 @@
+body {
+background-color: lightblue;
+font-family: Helvetica;
+}
+
+#main {
+width: 80%;
+max-width: 950px;
+border: 1px gray solid;
+margin: auto;
+padding: 10px;
+background-color: white;
+border-radius: 10px;
+}
+
+#header {
+margin-top: 0;
+border: 2px solid black;
+padding: 5px;
+height: 250px;
+background: rgb(230, 189, 189);
+
+color: black;
+}
+
+.gameBtn {
+    font-size: 1.8cm;
+    padding: 10px;
+    width: 15px;
+    text-align: center;
+    border:solid black;
+    margin-bottom: 1cm;
+    text-decoration: none;
+    color: black;
+    background-color: blanchedalmond;
+}
+
+.highScoresBtn {
+    font-size: 1.8cm;
+    padding: 10px;
+    width: 15px;
+    text-align: center;
+    border:solid black;
+    margin-bottom: 1cm;
+    text-decoration: none;
+    color: black;
+    background-color: blanchedalmond;
+}
